@@ -1,0 +1,22 @@
+.navigation {
+  margin-top: 20px;
+
+  button {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #0056b3;
+    }
+
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}

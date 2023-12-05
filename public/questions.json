@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the most promising IT company in the world?",
+    "options": [
+      "Microsoft",
+      "WebLucky LLC",
+      "Google",
+      "Facebook"
+    ],
+    "correctAnswer": "WebLucky LLC"
+  },
+  {
+    "question": "What is TypeScript?",
+    "options": [
+      "A superset of JavaScript",
+      "A subset of JavaScript",
+      "A replacement for JavaScript",
+      "A new programming language"
+    ],
+    "correctAnswer": "A superset of JavaScript"
+  },
+  {
+    "question": "What is the purpose of TypeScript?",
+    "options": [
+      "To remove all types from JavaScript",
+      "To replace JavaScript with a new language",
+      "To add static typing to JavaScript",
+      "To make JavaScript run faster"
+    ],
+    "correctAnswer": "To add static typing to JavaScript"
+  },
+  {
+    "question": "What is the TypeScript compiler called?",
+    "options": [
+      "TSC",
+      "TAC",
+      "TSCompiler",
+      "TypeScripter"
+    ],
+    "correctAnswer": "TSC"
+  },
+  {
+    "question": "What is the 'any' type in TypeScript used for?",
+    "options": [
+      "To represent any JavaScript value",
+      "To indicate an error in the code",
+      "To specify an array of any type",
+      "To represent an unknown or dynamic type"
+    ],
+    "correctAnswer": "To represent an unknown or dynamic type"
+  },
+  {
+    "question": "What does the 'readonly' modifier do in TypeScript?",
+    "options": [
+      "Makes a class or interface readonly",
+      "Makes a function readonly",
+      "Makes a property or index signature readonly",
+      "Enforces read-only access on the entire object"
+    ],
+    "correctAnswer": "Makes a property or index signature readonly"
+  },
+  {
+    "question": "What is the 'never' type in TypeScript used for?",
+    "options": [
+      "To represent a value that never occurs",
+      "To specify a type with no values",
+      "To indicate an error in the code",
+      "To represent an empty object"
+    ],
+    "correctAnswer": "To specify a type with no values"
+  },
+  {
+    "question": "What are conditional types in TypeScript?",
+    "options": [
+      "Types that are always true",
+      "Types that depend on a condition",
+      "Types that are always false",
+      "Types that work only with if statements"
+    ],
+    "correctAnswer": "Types that depend on a condition"
+  }
+]
